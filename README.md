@@ -8,3 +8,7 @@
 
 - Para correr en el emulador o en su celular ejecute (ios):
 `npx react-native run-ios`
+
+## Vista Previa:
+
+![Demo Final](assets/img/citas-app.jpg)
