@@ -1,5 +1,7 @@
 # App para citas veterinarias realizada con React Native
 
+Update: se agregó el AsyncStorage para mantener las citas despues de recargar la app.
+
 - Para comenzar ejecute:
 `npm install`
 
